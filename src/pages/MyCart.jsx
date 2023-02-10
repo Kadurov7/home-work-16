@@ -12,7 +12,7 @@ const MyCart = () => {
     }
   return (
     <>
-    <StyledTitle>My names Bekzhan Kadurov</StyledTitle>
+    <StyledTitle>look good</StyledTitle>
     <StyleBtn>
     <Button onClick={goToBack} >Go Back</Button>
     </StyleBtn>

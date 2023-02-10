@@ -14,7 +14,7 @@ const MyOrder = () => {
    
   return (
     <>
-     <StyleTitle>Naruto Uzhumaki</StyleTitle>
+     <StyleTitle>is anyone here?</StyleTitle>
      <StyleBtn>
      <Button onClick={goToBack}>Go Back</Button>
      </StyleBtn>
